@@ -251,6 +251,12 @@ section {
   margin: 0;
 }
 
+.shop-section-title {
+  text-align: center;
+  font-size: 1.4rem;
+  margin-bottom: 28px;
+}
+
 /* Product grid */
 .product-grid {
   display: grid;
