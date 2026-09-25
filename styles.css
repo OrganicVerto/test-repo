@@ -1,15 +1,15 @@
 :root {
-  --cream: #faf3ea;
-  --cream-dark: #f0e4d3;
-  --terracotta: #c46b4e;
-  --terracotta-dark: #a8543a;
-  --sage: #7c8a6e;
-  --sage-dark: #616e54;
-  --ink: #3a332c;
-  --ink-light: #6b6259;
+  --cream: #f6f1fb;
+  --cream-dark: #e9def2;
+  --terracotta: #8355bf;
+  --terracotta-dark: #6a3fa0;
+  --sage: #b48ad9;
+  --sage-dark: #9468bd;
+  --ink: #2e2438;
+  --ink-light: #6b5c7a;
   --white: #ffffff;
   --radius: 14px;
-  --shadow: 0 6px 20px rgba(58, 51, 44, 0.08);
+  --shadow: 0 6px 20px rgba(46, 36, 56, 0.1);
 }
 
 * {
@@ -306,12 +306,12 @@ section {
 }
 
 /* Photo color variants */
-.photo-1 { background: linear-gradient(135deg, #f0d8c0, #e3b088); }
-.photo-2 { background: linear-gradient(135deg, #d9e3c8, #a9bd8f); }
-.photo-3 { background: linear-gradient(135deg, #f3c9c9, #d98b8b); }
-.photo-4 { background: linear-gradient(135deg, #d8cdf0, #a894d9); }
-.photo-5 { background: linear-gradient(135deg, #f0e2a8, #d9b64a); }
-.photo-6 { background: linear-gradient(135deg, #c9e0e3, #7fb3ba); }
+.photo-1 { background: linear-gradient(135deg, #e6d6f5, #c9a3e8); }
+.photo-2 { background: linear-gradient(135deg, #ddd0f0, #a98fd4); }
+.photo-3 { background: linear-gradient(135deg, #f0d4ec, #d98bc7); }
+.photo-4 { background: linear-gradient(135deg, #d8cdf0, #8f68c9); }
+.photo-5 { background: linear-gradient(135deg, #ece0f7, #b48ad9); }
+.photo-6 { background: linear-gradient(135deg, #d6c4ea, #7454a8); }
 
 /* Shop intro */
 .shop-intro {
