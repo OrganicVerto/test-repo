@@ -487,6 +487,32 @@ form.contact-form textarea {
   color: var(--white);
 }
 
+/* FAQ */
+.faq-list {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.faq-item {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 22px 26px;
+  border: 1px solid var(--cream-dark);
+}
+
+.faq-item h3 {
+  font-size: 1.05rem;
+  margin-bottom: 8px;
+}
+
+.faq-item p {
+  color: var(--ink-light);
+  margin: 0;
+}
+
 /* Footer */
 footer.site-footer {
   background: var(--ink);
